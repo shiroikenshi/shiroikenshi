@@ -1,0 +1,2 @@
+# Arquivos que serão ignorados pelo Linguist
+*.js linguist-detectable=false
